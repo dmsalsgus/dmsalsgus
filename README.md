@@ -5,20 +5,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JungEun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250">
 </p>
 
+## 🐾 Status 🐾
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdmsalsgus&count_bg=%23F39BE7&title_bg=%23F39BE7&icon=smugmug.svg&icon_color=%23F0F635&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsalsgus&theme=gruvbox_light&show_icons=true&count_private=true)]() 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsalsgus&theme=moltack&layout=compact)
-
-
+<br>
 <br>
 
-<h3 align="center">✒ Blog and Portfolio ✒</h3>
-<p align="center">https://je-118.tistory.com/<br>https://</p>
 
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://je-118.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    <a href="포트폴리오 주소">
+        <img src="https://img.shields.io/badge/Portfolio-FF3366?style=for-the-badge&logo=adafruit&logoColor=white">
+    </a>
+
+<!--
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=je-118&theme=default)](https://je-118.tistory.com)
+</div><br>
+-->
+<br>
 <br>
 
-<h3 align="center">🛠 Languages and Tools 🛠</h3>
-<div align="center">
+
+## 🔨 Languages and Tools 🔨
+<div style="display:flex; flex-direction:row;">
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black">
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -43,41 +57,7 @@
 	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">  
 </div>
-
 <br>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdmsalsgus&count_bg=%23F39BE7&title_bg=%23F39BE7&icon=smugmug.svg&icon_color=%23F0F635&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JungEun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250">
-</p>
-
-
-[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsalsgus&theme=swift&show_icons=true)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsalsgus&theme=swift&layout=compact)
-
--->
 
 
 <!--
