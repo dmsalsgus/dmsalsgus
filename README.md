@@ -42,6 +42,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
 	<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
+	<br>
 	<img src="https://img.shields.io/badge/jSoup-51C8FA?style=flat-square&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -51,6 +52,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 	<img src="https://img.shields.io/badge/DBeaver-CC6699?style=flat-square&logo=DBeaver&logoColor=white">
+	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
  	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
