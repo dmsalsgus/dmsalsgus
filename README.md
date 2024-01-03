@@ -12,6 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsalsgus&theme=moltack&layout=compact)
 <br>
 <br>
+<br>
 
 
 ## 💻 DEV's log 💻
@@ -27,6 +28,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=je-118&theme=default)](https://je-118.tistory.com)
 </div><br>
 -->
+<br>
 <br>
 <br>
 
