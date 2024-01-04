@@ -44,22 +44,40 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
 	<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
-	<br>
 	<img src="https://img.shields.io/badge/jSoup-51C8FA?style=flat-square&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+	<br>
+ 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+	<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white">
+	<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white">
 	<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white">
 	<img src="https://img.shields.io/badge/JDBC-000000?style=flat-square&logo=Java&logoColor=white">
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-	<img src="https://img.shields.io/badge/DBeaver-CC6699?style=flat-square&logo=DBeaver&logoColor=white">
-	<br>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
  	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
+ 	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+   	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+    	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white">
+     	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+      	<img src="https://img.shields.io/badge/DBeaver-CC6699?style=flat-square&logo=DBeaver&logoColor=white">
+       	<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white">
+	<img src="https://img.shields.io/badge/Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+	<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
+	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white">
+	<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+	<img src="https://img.shields.io/badge/WSL-0a97f5?style=flat-square&logo=linux&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/Windows%2010-0078D6?style=flat-square&logo=windows10&logoColor=white">
+	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+ 	<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+	<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">  
+	<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+ 	<br>  
 </div>
 <br>
 
