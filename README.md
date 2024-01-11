@@ -20,7 +20,7 @@
     <a href="https://je-118.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="포트폴리오 주소">
+    <a href="https://dmsalsgus.github.io/portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-FF3366?style=for-the-badge&logo=adafruit&logoColor=white">
     </a>
 
